@@ -14,5 +14,8 @@
 
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+  According to the above outcome vehicle length and vehicle ground clearance are likely to provide non-random amount of variance to the mpg, hence they have significant impact   on mpg of the given datast. 
 - Is the slope of the linear model considered to be zero? Why or why not?
+  The linera model is not zero as the p-value of the above is 5.35e-11 which is lower than the significance level of 0.05% and there are sufficient evidence to reject null       hypothesis.
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+  This model does predict effectively about the mpg as the r-squared 0.7149 
