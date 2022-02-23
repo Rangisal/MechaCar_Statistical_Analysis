@@ -23,7 +23,7 @@
 
   This model does predict effectively about the mpg as the r-squared 0.7149 
   
-  ## Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils
   The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested   to determine if the manufacturing process is consistent across production lots. Using R,summary statistics table has been created to show,
 
   - The suspension coil’s PSI continuous variable across all manufacturing lots
