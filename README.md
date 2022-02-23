@@ -29,3 +29,5 @@
   - The suspension coil’s PSI continuous variable across all manufacturing lots
   - The following PSI metrics for each lot: mean, median, variance, and standard deviation.
   - Briefly detail and interpret the suspension coil summary statistics.
+  
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
