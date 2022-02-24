@@ -43,4 +43,6 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 Using R, performing t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
+![image](https://user-images.githubusercontent.com/93173498/155437105-2427b15f-7443-4c95-ad00-1502c48c74a7.png)
+
 
