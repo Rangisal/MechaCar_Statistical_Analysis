@@ -37,4 +37,4 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![image](https://user-images.githubusercontent.com/93173498/155432832-65223b40-b64b-4d58-8476-b2a1f2f77761.png)
 
 
-
+- In the total summary variance of the suspension coils are not exceeding the 100PSI as the variance of the coils are 62.29, however if we take individual lots, Lot 3 shows a larger variance of 170.2 which is greater than the 100 PSI. 
