@@ -56,3 +56,17 @@ Using R, performing t-tests to determine if all manufacturing lots and each lot 
 - From the lot 2 sample, sample mean is 1500.02 and the p value is 0.61 , hence we can not reject the null hypothesis. So no statis tical difference between the sample and the popultion mean.
 - From the lot 2 sample, sampe mean 1496.14 and the p value is 0.04 which is lower than the significance level and we can reject the null hypothesis. 
 
+## Study Design: MechaCar vs Competition
+- What metric or metrics are you going to test?
+  cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+  
+- What is the null hypothesis or alternative hypothesis?
+H0 - The mechacar are performing better than the competitors 
+Ha - The mechacar are not performing better than the competitors. 
+
+- What statistical test would you use to test the hypothesis? And why?
+Multiple linear regression can be used. Instead of using a single independent variable to account for all variability observed in the dependent variable, a multiple linear regression uses multiple independent variables to account for parts of the total variance observed in the dependent variable.
+
+- What data is needed to run the statistical test?
+comparable data from the competitors have to be run with the mechacar data. 
+
