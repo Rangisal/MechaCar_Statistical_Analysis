@@ -51,3 +51,8 @@ Using R, performing t-tests to determine if all manufacturing lots and each lot 
 
 ![image](https://user-images.githubusercontent.com/93173498/155437287-ced04dfe-84d8-464d-81ed-2eb233498408.png)
 
+- From t-test results from all manufacturing lots mean of the sampl is 1498.78 and the p value is 0.06 which is gretaer than the significance level of 0.05. Hence we dont have enough evidence to reject null hypothesis. alll manufacturing lots mean statistically similar to population mean of 1500
+- From the lot 1 sample, sample mean is 1500 and p value is 1, hence we can not reject nulll hypothesis. so no statistical difference between the sample mean and the population mean 
+- From the lot 2 sample, sample mean is 1500.02 and the p value is 0.61 , hence we can not reject the null hypothesis. So no statis tical difference between the sample and the popultion mean.
+- From the lot 2 sample, sampe mean 1496.14 and the p value is 0.04 which is lower than the significance level and we can reject the null hypothesis. 
+
