@@ -47,3 +47,6 @@ Using R, performing t-tests to determine if all manufacturing lots and each lot 
 
 ![image](https://user-images.githubusercontent.com/93173498/155437158-888bfc4e-5f58-4fe8-968a-01ae3a8bea73.png)
 
+![image](https://user-images.githubusercontent.com/93173498/155437220-29a4e3d9-3577-4492-a194-5123b2cc824d.png)
+
+
